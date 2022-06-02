@@ -10,3 +10,9 @@ C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.dll
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaModelo\obj\Debug\CapaModelo.pdb

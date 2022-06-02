@@ -7,9 +7,20 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace SistemaVentas {
-    
-    
-    public partial class IniciarSesion {
+namespace SistemaVentas
+{
+
+
+    public partial class IniciarSesion
+    {
+
+        /// <summary>
+        /// Control logoFunFan.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image logoFunFan;
     }
 }

@@ -17,3 +17,13 @@ C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.c
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
 C:\Users\jonat\Downloads\010_VENTAS_WEB_Proyecto\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MIGUEL\Documents\GitHub\Asp.netSqlServer\CapaDatos\obj\Debug\CapaDatos.pdb
