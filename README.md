@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-<p align="center">## INGENIERIA WEB ##</p>
+## INGENIERIA WEB ##
 ==============Sistema de Ventas WEB ASP.NET y Sql Server (html,css y javascript)===============
 - Docente : Abraham Gamarra Moreno
 - Integrantes: 
