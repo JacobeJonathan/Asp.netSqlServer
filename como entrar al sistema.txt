@@ -1,0 +1,6 @@
+Roles:
+Administrador - user: Admin Password: Admin123
+Empleado - user: Tienda Password: Tienda123
+Se crea los roles en 
+mantenedor >
+             Usuario >
