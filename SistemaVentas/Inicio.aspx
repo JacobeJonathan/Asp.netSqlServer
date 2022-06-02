@@ -5,7 +5,9 @@
 
     <style>
         body{
+
             background-color:white; /*color de fondo de inicio.aspx*/
+             
         }
         
         .bg-dark{
@@ -20,5 +22,12 @@
         #navbar-brand{
             color:white;
         }
+        
     </style>
+    <center>
+	   
+	   
+            <img src="https://www.carrerasadistancia.com.pe/logos/original/logo-universidad-continental-uc.png" alt="Logo Universidad Continental" />
+	   
+    </center>
 </asp:Content>
