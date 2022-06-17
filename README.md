@@ -19,7 +19,7 @@
 <p align="center"><img src="https://i.ibb.co/606kPNQ/Login.png" width="500" height="300"></p>
 
 Como equipo de trabajo planteamos realizar un sistema de venta web para la empresa Fun Fan:
-###Primer entregables
+### Primer entregables
 - DIAGRAMA ENTIDAD - RELACION
 - HISTORIA DE USUARIO
 - HTML
@@ -27,7 +27,7 @@ Como equipo de trabajo planteamos realizar un sistema de venta web para la empre
 - JAVASCRIPT
 - ASP.NET
 - SQLSERVER
-###Segundo entregables
+### Segundo entregables
 - Servicio web para la consulta a las tablas de la base de datos llamado DBPRUEBAS
 - Consumo de una API
 - Entrega del backup de la base de datos en el repositoriop
