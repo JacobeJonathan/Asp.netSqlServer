@@ -28,6 +28,7 @@ Como equipo de trabajo planteamos realizar un sistema de venta web para la empre
 - ASP.NET
 - SQLSERVER
 ### Segundo entregables
+- Entorno de desarrollo (Microsoft Visual Studio)
 - Servicio web para la consulta a las tablas de la base de datos llamado DBPRUEBAS
 - Consumo de una API
 - Entrega del backup de la base de datos en el repositoriop
