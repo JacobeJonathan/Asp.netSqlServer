@@ -33,6 +33,22 @@ Como equipo de trabajo planteamos realizar un sistema de venta web para la empre
 - Consumo de una API
 - Entrega del backup de la base de datos en el repositoriop
 - Entrega 18/06/2022
+#### Pasos a seguir:
+- 1.Consumo de la web de la tabla llamado dbo.Usuario donde se
+  - puede realizar el CRUD( Crear - Elimiar - Leer - Eliminar) usuarios y assignar roles
+  - Probar:
+    - 1.1.-El back de la base de datos esta en la carpeta llamado: /BackDeLaBaseDeDatos
+    - 1.2.-Inicia Sesion como admin: ( usuario y password estan en el archivo sistema.txt)
+    - mantenedor >
+             - Usuario >
+                       -  y ya puedo hacer el crud y la consulta a la base de datos
+    - ojo: tambien ya se puede almacer y registrar productos
+- 2.-Consumo de la Api chatbot que sirve para la venta de productos
+  - 2.1.-Se creo el archivo chatbot.html
+  - 2.1.-Se creo la carpeta botcss con el archivo stylebot.css
+  - 2.1.-Se creo en la carpeta controladores el archivo bot.js y se consumio esta api https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js para el chatbot
+
+
 ## License
 
 Todos los derechos a Jonathan Jacobe Montes @copyright - 2022.
