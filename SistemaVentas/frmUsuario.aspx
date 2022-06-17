@@ -1,5 +1,17 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/PaginaMaster.Master" AutoEventWireup="true" CodeBehind="frmUsuario.aspx.cs" Inherits="SistemaVentas.frmUsuario" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+    <style>
+        #btnNuevoRol{
+            background:#efcb00;
+        }
+        #tbUsuario{
+            background:#8057d7;
+            color:#efcb00;
+        }
+      
+        
+        
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 

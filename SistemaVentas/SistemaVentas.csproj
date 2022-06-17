@@ -2984,6 +2984,8 @@
     <Content Include="Assets\Plugins\Simple_Line_Icons\simple-line-icons.min.css" />
     <Content Include="Assets\Plugins\sweetalert2\sweetalert.css" />
     <Content Include="Assets\Plugins\sweetalert2\sweetalert.js" />
+    <Content Include="chatbot.html" />
+    <Content Include="Controlador\botscript\bot.js" />
     <Content Include="Controlador\frmCategoria\frmCategoria.js" />
     <Content Include="Controlador\frmConsultarCompra\frmConsultarCompra.js" />
     <Content Include="Controlador\frmConsultarVenta\frmConsultarVenta.js" />
@@ -3002,6 +3004,7 @@
     <Content Include="Controlador\rptProductoTienda\rptProductoTienda.js" />
     <Content Include="Controlador\rptVentas\rptVentas.js" />
     <Content Include="Controlador\Utilidades.js" />
+    <Content Include="css\botcss\Stylebot.css" />
     <Content Include="css\index\Style.css" />
     <Content Include="css\IniciarSesion\Styles.css" />
     <Content Include="docCompra.aspx" />
