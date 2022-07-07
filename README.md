@@ -47,7 +47,22 @@ Como equipo de trabajo planteamos realizar un sistema de venta web para la empre
   - 2.1.-Se creo el archivo chatbot.html
   - 2.1.-Se creo la carpeta botcss con el archivo stylebot.css
   - 2.1.-Se creo en la carpeta controladores el archivo bot.js y se consumio esta api https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js para el chatbot
-
+### Entregable final (Pasos para conectar la base de datos y informe final y demo del proyecto final)
+- Proyecto
+- Agregar nuevo origen de datos
+- siguiente
+- Nueva conexion
+- Nombre del srvidor (ojo: solo poner un punto ".")
+- Autentifiaciond e windows
+- Seleccione o escrib el nombre de la base de datos
+- DBPRUEBAS
+- Probar conexion
+- Nos mostrar un mensaje con conexion exitosa
+- Luego le damos check en = Mostrar la cadena de conexion que se guarda en la conexion
+- Nos saldra un codigo "Data source =;initialCatalog=DBPRUEBAS;IntegridadSecutiry=True
+- Y ese codigo lo copiamos  en :
+- public static string CN = "copyar aqui el codigo que nos salio";
+- Y le damos en guardar
 
 ## License
 
