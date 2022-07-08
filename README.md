@@ -63,7 +63,9 @@ Como equipo de trabajo planteamos realizar un sistema de venta web para la empre
 - Y ese codigo lo copiamos  en :
 - public static string CN = "copyar aqui el codigo que nos salio";
 - Y le damos en guardar
-
+### Entregable final
+- A continuacion le dejo la carpeta en drive del informe final:
+- https://drive.google.com/drive/folders/1Z7xrC38e7wLbddiCSeCYykmPBF4x1fjb?usp=sharing
 ## License
 
 Todos los derechos a Jonathan Jacobe Montes @copyright - 2022.
